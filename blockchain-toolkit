@@ -1,0 +1,8 @@
+{
+  "name": "blockchain-toolkit",
+  "version": "1.0.3",
+  "description": "A comprehensive toolkit for blockchain development and management.",
+  "dependencies": {
+    "decentralized-dapp-kit": "1.0.0"
+  }
+}
